@@ -60,3 +60,6 @@ curl --request POST --header 'Content-Type: application/json' --data '{"impossib
 ```
 chmod +x request.sh
 ```
+```
+./request.sh
+```
