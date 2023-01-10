@@ -1,8 +1,8 @@
-# pyhon-jun-task
+# python-jun-task
 
 Привет!
 
-Это тестовое задание Pyhon Джуна.
+Это тестовое задание Python Джуна.
 
 Сервер работает на [Flask](https://flask.palletsprojects.com/en/2.2.x/).
 
