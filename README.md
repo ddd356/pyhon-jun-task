@@ -34,7 +34,7 @@ flask run --host 127.0.0.1 --port 5000
 ```
 curl --request POST --header 'Content-Type: application/json' --data '{"fname1": "email@site.com", "fname2":"some text"}' 'http://127.0.0.1:5000'
 ```
-Получаем результат:
+Видим, что в базе нашелся подходящий шаблон. Имя шаблона: *form1*. Типы полей: *email* и *text*.
 ```
 [{"form_name": "form1", "fname1": "email", "fname2": "text"}] 
 ```
