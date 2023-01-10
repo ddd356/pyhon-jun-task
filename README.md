@@ -56,3 +56,7 @@ curl --request POST --header 'Content-Type: application/json' --data '{"impossib
 ```
 {"impossible_field_name1":"email","impossible_field_name2":"text"}
 ```
+Тестовые запросы собраны в скрипте request.sh. Перед его запуском понадобится разрешить исполнение:
+```
+chmod +x request.sh
+```
